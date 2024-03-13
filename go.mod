@@ -30,7 +30,7 @@ require (
 	google.golang.org/api v0.110.0
 	google.golang.org/genproto v0.0.0-20230222225845-10f96fb3dbec
 	google.golang.org/grpc v1.53.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 	honnef.co/go/tools v0.4.3
 	mvdan.cc/unparam v0.0.0-20220926085101-66de63301820
 )
